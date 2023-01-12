@@ -1,0 +1,29 @@
+
+.spinner-container{
+
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.userIcon{
+  height: 15px;
+  width: 25px;
+  background-color: white;
+  color: grey;
+  display: grid;
+  place-items: center;
+  padding-right: 5px;
+}
+.locationIcon{
+  height: 15px;
+  width: 25px;
+  background-color: white;
+  color: grey;
+  display: grid;
+  place-items: center;
+  padding-right: 5px;
+}
+.learnMoreBtn{
+  background-color: black;
+  color: blue;
+}
